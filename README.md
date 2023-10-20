@@ -26,6 +26,8 @@ Submitted to the 2023 NextEra Energy Hackathon and won Second Place.
 
 This hackathon was a codeless hackathon.
 
+This project was done inconjunction with Ivan Lepessi (https://github.com/yukinoyuu), Desree Oganah, Jaskaran Chawla, and Isaiah Rohrer (me)
+
 Link to presentation given to judges below.
 
-https://docs.google.com/presentation/d/1yB2G_dTO8ngSZzoK1v1H2HeCkYA4LnYa8ap9ruaHdWI/edit?usp=sharing
+https://docs.google.com/presentation/d/1CLs2bM4le4a8YIarcETYF5CfGcyCdNrcOhwB9Ey7Ets/edit?usp=sharing
